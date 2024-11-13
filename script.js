@@ -24,3 +24,9 @@
  //undefined
  let phone;
  console.log(typeof phone)
+
+ // reference type: Objects
+
+ //Array
+ let liste=["Asli", "Ayse", "Derin"]
+ console.log(liste)
